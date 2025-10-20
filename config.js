@@ -1,5 +1,5 @@
 function returnState(){
-    return console.log('version1');
+    return console.log('version2');
 }
 
 function renderName(){
